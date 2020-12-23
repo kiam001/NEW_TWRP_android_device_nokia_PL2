@@ -31,7 +31,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := PL2_sprout
-PRODUCT_NAME := omni_PL2_sprout
+PRODUCT_NAME := omni_PL2
 PRODUCT_BRAND := nokia
 PRODUCT_MODEL := PL2
 PRODUCT_MANUFACTURER := HMD Global
