@@ -30,9 +30,9 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := PL2_sprout
+PRODUCT_DEVICE := PL2
 PRODUCT_NAME := omni_PL2
 PRODUCT_BRAND := nokia
-PRODUCT_MODEL := PL2
+PRODUCT_MODEL := PL2_sprout
 PRODUCT_MANUFACTURER := HMD Global
 PRODUCT_RELEASE_NAME := Nokia 6.1
