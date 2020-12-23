@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_PL2_sprout-userdebug
-add_lunch_combo omni_PL2_sprout-eng
+add_lunch_combo omni_PL2-userdebug
+add_lunch_combo omni_PL2-eng

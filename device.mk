@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/unknown/PL2_sprout
+LOCAL_PATH := device/nokia/PL2
 
 # A/B
 AB_OTA_PARTITIONS += \
